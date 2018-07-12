@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "156336e10dd4127afe4bcd526bd0e078",
+    "content-hash": "f7bfadf77faf6b2d92be38fb0dd4f076",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3657,15 +3657,15 @@
         },
         {
             "name": "wpackagist-plugin/all-in-one-seo-pack",
-            "version": "2.4.4",
+            "version": "2.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
-                "reference": "tags/2.4.4"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.2.4.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.zip?timestamp=1531333213",
                 "reference": null,
                 "shasum": null
             },
